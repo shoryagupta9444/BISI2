@@ -19,5 +19,4 @@ In this project, there will be the following task-
 5) Building Logistic Regression Model
 6) Conclusion
 
-
-
+**Demo-** https://colab.research.google.com/drive/1RgYWKb8d2_J_WJbSo-mnGWNvr-idcTsK?usp=sharing
