@@ -1,4 +1,4 @@
-# Data Analysis of Australian weather using Logistic Regression Model
+# Data Analysis of Australia's weather using Logistic Regression Model
 
 **Language** - Python 3.8.5
 
